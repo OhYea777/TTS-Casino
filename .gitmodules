@@ -1,0 +1,3 @@
+[submodule "tts-types"]
+	path = tts-types
+	url = https://github.com/Benjamin-Dobell/tts-types.git
